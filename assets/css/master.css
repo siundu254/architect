@@ -13,9 +13,26 @@ html, body {
   font-size: 1.1em !important;
 }
 .carousel-inner img {
-  height: 620px;
+  height: 575px;
   width: 100%;
 }
 .carousel-caption button {
   border: 1px solid #fff;
+}
+#projects {
+  padding: 10px;
+  margin-top: 10px;
+}
+.row {
+  padding: 10px;
+}
+.row img {
+  height: 200px;
+}
+#demo2 h3 {
+  margin-top: 20px;
+}
+#demo p {
+  margin-left: 20px;
+  margin-right: 20px;
 }
