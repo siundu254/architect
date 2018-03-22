@@ -39,3 +39,7 @@ html, body {
   margin-left: 20px;
   margin-right: 20px;
 }
+footer {
+  background-color: #eeeeee;
+  margin-top: 10px;
+}
