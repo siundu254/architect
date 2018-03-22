@@ -12,3 +12,10 @@ html, body {
 .nav-link {
   font-size: 1.1em !important;
 }
+.carousel-inner img {
+  height: 620px;
+  width: 100%;
+}
+.carousel-caption button {
+  border: 1px solid #fff;
+}
