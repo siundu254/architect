@@ -29,6 +29,9 @@ html, body {
 .row img {
   height: 200px;
 }
+.card {
+  margin-bottom: 10px;
+}
 #demo2 h3 {
   margin-top: 20px;
 }
